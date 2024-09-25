@@ -9,8 +9,8 @@ public class Person {
     // Konstruktor
     public Person(String name, int zahl){
         this.name = name;
-        age = zahl;
-        halloSagen();
+        this.age = zahl;
+       // halloSagen();
     }
 
     // Methoden
